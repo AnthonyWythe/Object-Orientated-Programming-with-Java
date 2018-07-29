@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayerTest
+comment0.text=\n\ This\ tests\ some\ of\ the\ players\ inventory\ functions.\n\ Adding\ items,\ deleting\ them,\ adding\ gold\ and\ removing\ it.\n\n\ @author\ \ (Anthony\ Wythe)\n\ @version\ ('Escape'\ Version\ 5\ -\ 06/01/2018)\n
+comment1.params=
+comment1.target=PlayerTest()
+comment1.text=\n\ Constructor\ to\ initialise\ a\ player\ and\ an\ item.\n
+comment2.params=
+comment2.target=void\ testInventory()
+comment2.text=\n\ This\ tests\ the\ players\ inventory\ functions.\n\ An\ item\ is\ added\ and\ then\ checked\ it\ has\ worked.\n\ The\ same\ is\ done\ for\ deletion\ of\ the\ item.\n\ @return\ void\n
+comment3.params=
+comment3.target=void\ testGold()
+comment3.text=\n\ This\ tests\ the\ players\ gold\ functions.\n\ Gold\ is\ added\ then\ checked\ it\ has\ worked.\n\ The\ same\ is\ done\ for\ removal\ of\ gold.\n\ @return\ void\n
+numComments=4

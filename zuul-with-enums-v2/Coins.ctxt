@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Coins
+comment0.text=\n\ Creates\ collectable\ coins\ to\ be\ placed\ around\ the\ map.\n\ Requires\ an\ amount,\ and\ a\ boolean\ to\ stop\ it\ being\ collected\ more\ than\ once.\n\n\ @author\ (Anthony\ Wythe)\n\ @version\ (Escape\ V2)\n
+comment1.params=amount
+comment1.target=Coins(int)
+comment1.text=\n\ Constructor,\ requires\ an\ amount\ to\ be\ set.\n\ @param\ int\ amount\ \:\ the\ amount\ of\ coins\n
+comment2.params=
+comment2.target=int\ getAmount()
+comment2.text=\n\ Returns\ the\ value\ of\ the\ coins.\n\ @return\ int\n
+comment3.params=
+comment3.target=boolean\ areCoinsCollected()
+comment3.text=\n\ Returns\ whether\ coins\ have\ been\ collected\ yet.\n\ @return\ boolean\n
+comment4.params=
+comment4.target=void\ setCoinsCollected()
+comment4.text=\n\ Sets\ the\ coins\ as\ collected.\n\ @return\ void\n
+comment5.params=amount
+comment5.target=void\ setCoinAmount(int)
+comment5.text=\n\ Method\ to\ set\ the\ value\ of\ the\ coins.\n\ @param\ int\ amount\ \:\ the\ amount\ of\ coins\n\ @return\ void\n
+numComments=6

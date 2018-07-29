@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PillarTest
+comment0.text=\n\ This\ is\ for\ testing\ the\ pillar\ objects\ in\ the\ game.\n\ It\ sets\ the\ pillar\ up\ and\ then\ rotates\ through\ the\ faces.\n\ Checks\ are\ made\ to\ ensure\ it\ is\ working\ properly.\n\n\ @author\ \ (Anthony\ Wythe)\n\ @version\ ('Escape'\ Version\ 5\ -\ 06/01/2018)\n
+comment1.params=
+comment1.target=PillarTest()
+comment1.text=\n\ Constructor\ to\ initialise\ the\ pillar\ object.\n\ Adds\ 5\ faces,\ each\ with\ a\ String\ and\ an\ image.\n\ The\ correct\ face\ is\ set\ as\ the\ fifth\ one.\n
+comment2.params=
+comment2.target=void\ rotationTest()
+comment2.text=\n\ This\ runs\ through\ the\ different\ faces\ of\ the\ pillar.\n\ As\ each\ face\ changes,\ checks\ are\ made\ to\ ensure\ it\ is\ working\ as\ it\ should.\n\ @return\ void\n
+numComments=3

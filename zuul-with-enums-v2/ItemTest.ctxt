@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ItemTest
+comment0.text=\n\ This\ is\ for\ testing\ the\ set-up\ of\ item\ objects.\n\ The\ collection\ status,\ name,\ description\ and\ ID\ number.\n\n\ @author\ \ (Anthony\ Wythe)\n\ @version\ ('Escape'\ Version\ 5\ -\ 06/01/2018)\n
+comment1.params=
+comment1.target=ItemTest()
+comment1.text=\n\ Constructor\ that\ initialises\ the\ item\ for\ testing.\n
+comment2.params=
+comment2.target=void\ collectionTest()
+comment2.text=\n\ This\ checks\ the\ item\ collection\ status\ can\ be\ set\ properly.\n\ @return\ void\n
+comment3.params=
+comment3.target=void\ detailsTest()
+comment3.text=\n\ This\ checks\ the\ items\ details\ can\ be\ set\ properly.\n\ @return\ void\n
+numComments=4

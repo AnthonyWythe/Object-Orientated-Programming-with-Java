@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameTest
+comment0.text=\n\ This\ class\ tests\ the\ main\ objectives\ within\ the\ game.\n\ It\ runs\ through\ the\ game\ as\ if\ it\ were\ being\ played\ by\ a\ real\ user.\n\ Various\ checks\ are\ made\ to\ make\ sure\ the\ mechanics\ are\ working\ properly.\n\n\ @author\ \ (Anthony\ Wythe)\n\ @version\ ('Escape'\ Version\ 5\ -\ 06/01/2018)\n
+comment1.params=
+comment1.target=GameTest()
+comment1.text=\n\ Constructor\ that\ initiliases\ the\ instance\ of\ the\ game\ class.\n
+comment2.params=
+comment2.target=void\ testCampfireTrade()
+comment2.text=\n\ Tests\ the\ first\ game\ objective.\n\ The\ player\ finds\ the\ water\ item\ and\ trades\ it\ for\ 5\ gold\ at\ the\ campfire.\n\ @return\ void\n
+comment3.params=
+comment3.target=void\ testTotemPole()
+comment3.text=\n\ Tests\ collection\ of\ the\ 1st\ key.\n\ The\ payer\ navigates\ to\ the\ top\ of\ the\ totem\ pole\ and\ collects.\n\ @return\ void\n
+comment4.params=
+comment4.target=void\ testCave()
+comment4.text=\n\ Tests\ the\ objectives\ within\ the\ cave.\n\ The\ player\ collects\ the\ rope\ and\ uses\ it\ to\ navigate\ to\ the\ bottom\ of\ the\ cave.\n\ They\ can\ then\ collect\ the\ 2nd\ of\ the\ games\ keys.\n\ @return\ void\n
+comment5.params=
+comment5.target=void\ testMachette()
+comment5.text=\n\ Tests\ collection\ and\ use\ of\ the\ machette.\n\ The\ player\ trades\ coins\ for\ the\ machette\ at\ the\ caravan.\n\ This\ is\ then\ used\ to\ navigate\ through\ the\ jungle.\n\ @return\ void\n
+comment6.params=
+comment6.target=void\ testTemple()
+comment6.text=\n\ Tests\ the\ objectives\ within\ the\ temple.\n\ The\ player\ collects\ gold\ from\ the\ temple\ library.\n\ They\ then\ complete\ the\ two\ puzzle\ rooms\ to\ get\ to\ where\ the\ guard\ is.\n\ The\ guard\ is\ paid\ 10\ gold\ coins\ for\ entry\ to\ the\ museum.\n\ The\ 3rd\ key\ is\ collected\ inside\ the\ museum.\n\ @return\ void\n
+numComments=7
